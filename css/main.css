@@ -18,7 +18,9 @@ main{
   max-width: 70%;
   font-family: sans-serif;
 }
+main div{
+  text-align: center;
+}
 main img{
-  margin: auto;
-  max-width: 80%;
+  min-width: 80%;
 }
