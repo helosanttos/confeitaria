@@ -18,3 +18,7 @@ main{
   max-width: 70%;
   font-family: sans-serif;
 }
+main img{
+  margin: auto;
+  max-width: 80%;
+}
