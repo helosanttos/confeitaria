@@ -5,7 +5,7 @@ nav{
   margin-bottom: 2rem;
 }
 nav a{
-  background-color: #32b9a2;
+  background-color: hwb(229 20% 27%);
   padding: 5px;
   border-radius: 5px;
 }
