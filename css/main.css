@@ -19,7 +19,7 @@ main{
   font-family: sans-serif;
 }
 main div{
-  text-align: center;
+  margin: auto;
 }
 main img{
   min-width: 80%;
